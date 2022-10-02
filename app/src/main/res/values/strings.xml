@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="traicay_array">
+        <item>Mít</item>
+        <item>Xoài</item>
+        <item>Chôm Chôm</item>
+        <item>Thanh Long</item>
+        <item>Măng Cụt</item>
+        <item>Sầu Riêng</item>
+    </string-array>
+</resources>
